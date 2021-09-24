@@ -1357,7 +1357,7 @@ img {
 main{margin-bottom:-62px;}
 
 .tabbed-window-list {
-    margin-bottom: 59px;
+    margin-bottom: 59px !important;
 
   display: grid;
   background:#f1e8e8;
